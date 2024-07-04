@@ -16,6 +16,8 @@
     ·
     <a href="https://app.joinveet.com">Sign up</a>
     ·
+    <a href="https://www.joinveet.com/about-us">About us</a>
+    ·
     <a href="https://veet.featurebase.app/changelog">Changelog</a>
   </p>
 </p>
