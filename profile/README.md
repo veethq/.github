@@ -14,7 +14,7 @@
     <br />
     <a href="https://www.joinveet.com">Website</a>
     ·
-    <a href="https://veet.featurebase.app">Feedback</a>
+    <a href="https://app.joinveet.com">Sign up</a>
     ·
     <a href="https://veet.featurebase.app/changelog">Changelog</a>
   </p>
