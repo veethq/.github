@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/veethq">
-   <img src="https://www.joinveet.com/og-image.png" alt="Veet Banner">
+   <img src="https://veet-production.s3.us-east-2.amazonaws.com/public/og-image.png" alt="Veet Banner">
   </a>
 
   <h3 align="center">Veet</h3>
